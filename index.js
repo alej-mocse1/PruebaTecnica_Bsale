@@ -1,7 +1,7 @@
 const { conn } = require("./src/db.js");
 const server = require('./src/server.js')
 
-const PORT = 3006
+const PORT = 3004
 
 //ejecutamos todo nuestro proyecto 
 server.listen(PORT,() => {
