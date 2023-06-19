@@ -3,12 +3,6 @@
 ¡Bienvenido al repositorio de la Prueba Técnica Bsale! En este proyecto encontrarás una aplicación desarrollada en Node.js con el objetivo de cumplir con los requerimientos de la prueba técnica.
 
 
-## Ejecución
-
-Una vez que hayas instalado todas las dependencias y configurado el proyecto, estás listo/a para ejecutarlo. Utiliza el siguiente comando para iniciar el proyecto:
-
-```bash
-npm start
 
 
 ## Instalación
@@ -21,6 +15,12 @@ Para comenzar, asegúrate de tener Node.js instalado en tu máquina. Luego, sigu
 
    ```bash
    npm install
+
+
+
+
+
+
 
 ## Estructura del proyecto
 
@@ -38,4 +38,12 @@ Además, este proyecto cuenta con un manejador de errores personalizado que capt
 ## Contribución
 
 Si quiren contribuir a este proyecto,  estoy abierto a mejoras, correcciones de errores y nuevas funcionalidades.
+
+
+## Ejecución
+
+Una vez que hayas instalado todas las dependencias y configurado el proyecto, estás listo/a para ejecutarlo. Utiliza el siguiente comando para iniciar el proyecto:
+
+```bash
+npm start
 
