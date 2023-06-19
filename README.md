@@ -16,12 +16,6 @@ Para comenzar, asegúrate de tener Node.js instalado en tu máquina. Luego, sigu
    ```bash
    npm install
 
-
-
-
-
-
-
 ## Estructura del proyecto
 
 El proyecto se organiza en varias carpetas, cada una con un propósito específico:
