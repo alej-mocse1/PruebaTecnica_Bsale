@@ -37,7 +37,7 @@ Además, este proyecto cuenta con un manejador de errores personalizado que capt
 
 ## Contribución
 
-Si quiren contribuir a este proyecto,  estoy abierto a mejoras, correcciones de errores y nuevas funcionalidades.
+Si quieren contribuir a este proyecto,  estoy abierto a mejoras, correcciones de errores y nuevas funcionalidades.
 
 
 ## Ejecución
